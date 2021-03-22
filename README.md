@@ -109,6 +109,18 @@
     </tr>
     <tr>
         <td>2021</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td>2020</td>
