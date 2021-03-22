@@ -90,20 +90,36 @@
 
 <table>
     <tr>
-        <th colspan="12">Mês</th>
+        <th colspan="13">Mês</th>
+        <th rowspan="10">Ano</th>
     </tr>
     <tr>
         <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
-        <td>Janeiro</td>
+        <td>Fevereiro</td>
+        <td>Março</td>
+        <td>Abril</td>
+        <td>Maio</td>
+        <td>Junho</td>
+        <td>Julho</td>
+        <td>Agosto</td>
+        <td>Setembro</td>
+        <td>Outubro</td>
+        <td>Novembro</td>
+        <td>Dezembro</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
+        <td>2021</td>
     </tr>
 </table>
