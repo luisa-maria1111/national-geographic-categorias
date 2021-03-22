@@ -90,8 +90,8 @@
 
 <table>
     <tr>
-        <th colspan="13">Mês</th>
         <th rowspan="10">Ano</th>
+        <th colspan="13">Mês</th>
     </tr>
     <tr>
         <td>Janeiro</td>
@@ -109,17 +109,23 @@
     </tr>
     <tr>
         <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
-        <td>2021</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+    </tr>
+    <tr>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+    </tr>
+    <tr>
+        <td>2015</td>
     </tr>
 </table>
