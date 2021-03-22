@@ -94,6 +94,7 @@
         <th colspan="13">Mês</th>
     </tr>
     <tr>
+        <td></td>
         <td>Janeiro</td>
         <td>Fevereiro</td>
         <td>Março</td>
@@ -112,6 +113,7 @@
         <td></td>
         <td></td>
         <td><a href="">X</a></td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
