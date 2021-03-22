@@ -90,10 +90,6 @@
 
 <table>
     <tr>
-        <th rowspan="10">Ano</th>
-        <th colspan="13">Mês</th>
-    </tr>
-    <tr>
         <td></td>
         <td>Janeiro</td>
         <td>Fevereiro</td>
@@ -112,7 +108,7 @@
         <td>2021</td>
         <td></td>
         <td></td>
-        <td><a href="">X</a></td>
+        <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/mar%C3%A7o-2021.md">X</a></td>
         <td></td>
         <td></td>
         <td></td>
