@@ -9,9 +9,9 @@
   * [Alimentação]
   * [Alterações climáticas]
   * [Antropologia]
-  * [Arqueologia]
+  * [Arqueologia](arqueologia.md)
   * [Arquitectura]
-  * [Arte]
+  * [Arte](arte.md)
   * [Astronomia]
   
 * B
@@ -20,8 +20,8 @@
 * C
   * [Carros] 
   * [Ciência cognitiva e psicologia] 
-  * [Comércio animal]
-  * [Conservação]
+  * [Comércio animal](comércio-animal.md)
+  * [Conservação](conservação.md)
   * [Cultura]
 
 * D 
@@ -34,26 +34,29 @@
   * [Exploradores/Pioneiros/Pessoas corajosas e interessantes]
 
 * F
-  * [Fauna (Água)]
-  * [Fauna (Aves)]
-  * [Fauna (Fungos)]
-  * [Fauna (Terra)]
-  * [Fauna (Insectos)]
-  * [Fauna (Répteis e Anfíbios)]
-  * [Fauna e Flora (Vários/Outros)]
-  * [Flora]
+  * [Fauna (água)](fauna-água.md)
+  * [Fauna (aves)]
+  * [Fauna (fungos)]
+  * [Fauna (terra)]
+  * [Fauna (insectos)]
+  * [Fauna (répteis e anfíbios)](fauna-répteis-anfíbios.md)
+  * [Fauna e flora (vários/outros)]
+  * [Flora](flora.md)
   * [Fotografia]
 
 * G
-  * [Geologia]
+  * [Geologia](geologia.md)
   * [Guerra, primeira e segunda guerras mundiais]
-  * [Guerra, outras]
+  * [Guerra, outras](guerras-outras.md)
 
 * H
   * [História]
 
 * I
   * [Invenções]
+  
+* J
+  * [Justiça](justiça.md)
 
 * M
   * [Marte](marte.md)
@@ -77,7 +80,7 @@
 
 * S
   * [Saúde e bem-estar]
-  * [Sustentabilidade]
+  * [Sustentabilidade](sustentabilidade.md)
 
 * T
   * [Tecnologia](tecnologia.md)
