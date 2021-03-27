@@ -50,7 +50,7 @@
   * [Guerra, outras](categorias/guerras-outras.md)
 
 * H
-  * [História]
+  * [História](categorias/história/história.md)
 
 * I
   * [Invenções]
@@ -144,4 +144,4 @@
 
 ### Edições especiais
 * Grandes Mulheres
-  * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**, **Mulheres**
+  * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História: Antiguidade Clássica**

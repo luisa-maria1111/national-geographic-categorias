@@ -3,68 +3,68 @@
 <table>
 <thead>
   <tr>
-    <th rowspan="6">Pré-história</th>
-    <th rowspan="3">Idade da Pedra</th>
-    <th>Paleolítico</th>
-    <th>2.5 milhões - 10 000 a.C.</th>
+    <td rowspan="6">Pré-história</td>
+    <td rowspan="3">Idade da Pedra</td>
+    <td>Paleolítico</td>
+    <td><a href="">2.5 milhões - 10 000 a.C.</a></td>
   </tr>
   <tr>
     <td>Mesolítico</td>
-    <td>13 000 - 9 000 a.C.</td>
+    <td><a href="">13 000 - 9 000 a.C.</a></td>
   </tr>
   <tr>
     <td>Neolítico</td>
-    <td>5 000 - 3 000 a.C.</td>
+    <td><a href="">5 000 - 3 000 a.C.</a></td>
   </tr>
   <tr>
     <td rowspan="3">Idade dos Metais</td>
     <td>Idade do Cobre</td>
-    <td>3 300 - 1 200 a.C.</td>
+    <td><a href="">3 300 - 1 200 a.C.</a></td>
   </tr>
   <tr>
     <td>Idade do Bronze</td>
-    <td>3 300 - 700 a.C.</td>
+    <td><a href="">3 300 - 700 a.C.</a></td>
   </tr>
   <tr>
     <td>Idade do Ferro</td>
-    <td>1 200 a.C. - 1 000</td>
+    <td><a href="">1 200 a.C. - 1 000</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="3">Idade Antiga</td>
     <td colspan="2">Antiguidade Oriental</td>
-    <td>4 000 a.C. - 500 a.C.</td>
+    <td><a href="">4 000 a.C. - 500 a.C.</a></td>
   </tr>
   <tr>
     <td colspan="2">Antiguidade Clássica</td>
-    <td>800 a.C - 476</td>
+    <td><a href="">800 a.C - 476</a></td>
   </tr>
   <tr>
     <td colspan="2">Antiguidade tardia</td>
-    <td>300 - 476</td>
+    <td><a href="">300 - 476</a></td>
   </tr>
   <tr>
     <td rowspan="3">Idade Média</td>
     <td colspan="2">Alta Idade Média</td>
-    <td>476 - 1000</td>
+    <td><a href="">476 - 1000</a></td>
   </tr>
   <tr>
     <td rowspan="2">Baixa Idade Média</td>
     <td>Idade Média Plena</td>
-    <td>séc. XI - XIII</td>
+    <td><a href="">séc. XI - XIII</a></td>
   </tr>
   <tr>
     <td>Idade Média Tardia</td>
-    <td>séc. XIV - XV</td>
+    <td><a href="">séc. XIV - XV</a></td>
   </tr>
   <tr>
     <td colspan="3">Idade Moderna</td>
-    <td>1453 - 1789</td>
+    <td><a href="">1453 - 1789</a></td>
   </tr>
   <tr>
     <td colspan="3">Idade Contemporânea</td>
-    <td>1789 - </td>
+    <td><a href="">1789 - </a></td>
   </tr>
 </tbody>
 </table>
