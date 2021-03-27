@@ -4,9 +4,8 @@
 * Pretende-se ter aqui uma forma rápida de pesquisar artigos científicos da National Geographic através de várias categorias. Pode ser útil, para fazer alguma pesquisa sobre um dado assunto. 
 
 * A
-  * [À volta do mundo]
   * [Ativismo]
-  * [Alimentação]
+  * [Alimentação](categorias/alimentação.md)
   * [Alterações climáticas]
   * [Antropologia]
   * [Arqueologia](categorias/arqueologia.md)
@@ -19,7 +18,6 @@
 
 * C
   * [Carros] 
-  * [Ciência cognitiva e psicologia] 
   * [Comércio animal](categorias/comércio-animal.md)
   * [Conservação](categorias/conservação.md)
   * [Cultura]
@@ -42,7 +40,7 @@
   * [Fauna (répteis e anfíbios)](categorias/fauna-répteis-anfíbios.md)
   * [Fauna e flora (vários/outros)]
   * [Flora](categorias/flora.md)
-  * [Fotografia]
+  * [Fotografia](categorias/fotografia.md)
 
 * G
   * [Geologia](categorias/geologia.md)
@@ -60,17 +58,18 @@
 
 * M
   * [Marte](categorias/marte.md)
-  * [Medicina e biologia humana]
+  * [Medicina e biologia humana](categorias/medicina-biologia-humana.md)
   * [Minas]
   * [Mulheres](categorias/mulheres.md)
 
 * N
   * [National Geographic]
   * [Natureza e ciência relacionada]
+  * [Neurociência](categorias/neurociência.md)
 
 * P
+  * [Países](categorias/países/países.md)
   * [Paleontologia]
-  * [Património português (história, pessoas e sítios)]
   * [Pequenas histórias]
   * [Política, Geografia e Estatísticas]
 
@@ -143,5 +142,17 @@
 </table>
 
 ### Edições especiais
+* Ciência
+  * Nº2: Atrasar o envelhecimento, o desafio da biomedicina - **Alimentação**; **Neurociência**; **Saúde e bem-estar**; **Medicina e biologia humana**; **Espaço**; **Tecnologia**; **História: Idade Contemporânea**; **Arquitectura**
+
 * Grandes Mulheres
   * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História: Antiguidade Clássica**
+
+* História 
+  * O século das luzes, quando os filósofos mudaram o mundo - **História: Idade Moderna**
+  
+* Viagens
+  * 50 maravilhas de Portugal - **Países: Portugal** 
+  
+* Outras
+  * 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia** 
