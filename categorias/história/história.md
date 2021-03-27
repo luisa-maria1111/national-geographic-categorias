@@ -60,11 +60,11 @@
   </tr>
   <tr>
     <td colspan="3">Idade Moderna</td>
-    <td><a href="">1453 - 1789</a></td>
+    <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/categorias/hist%C3%B3ria/idade-moderna.md">1453 - 1789</a></td>
   </tr>
   <tr>
     <td colspan="3">Idade Contemporânea</td>
-    <td><a href="">1789 - </a></td>
+    <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/categorias/hist%C3%B3ria/idade-contempor%C3%A2nea.md">1789 - </a></td>
   </tr>
 </tbody>
 </table>
