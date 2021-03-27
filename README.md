@@ -9,9 +9,9 @@
   * [Alimentação]
   * [Alterações climáticas]
   * [Antropologia]
-  * [Arqueologia](arqueologia.md)
+  * [Arqueologia](categorias/arqueologia.md)
   * [Arquitectura]
-  * [Arte](arte.md)
+  * [Arte](categorias/arte.md)
   * [Astronomia]
   
 * B
@@ -20,8 +20,8 @@
 * C
   * [Carros] 
   * [Ciência cognitiva e psicologia] 
-  * [Comércio animal](comércio-animal.md)
-  * [Conservação](conservação.md)
+  * [Comércio animal](categorias/comércio-animal.md)
+  * [Conservação](categorias/conservação.md)
   * [Cultura]
 
 * D 
@@ -30,24 +30,24 @@
 
 * E 
   * [Entrevistas]
-  * [Espaço](espaço.md)
-  * [Exploradores/Pioneiros/Pessoas corajosas e interessantes]
+  * [Espaço](categorias/espaço.md)
+  * [Exploradores/Pioneiros/Pessoas corajosas e interessantes](categorias/exploradores.md)
 
 * F
-  * [Fauna (água)](fauna-água.md)
+  * [Fauna (água)](categorias/fauna-água.md)
   * [Fauna (aves)]
   * [Fauna (fungos)]
   * [Fauna (terra)]
   * [Fauna (insectos)]
-  * [Fauna (répteis e anfíbios)](fauna-répteis-anfíbios.md)
+  * [Fauna (répteis e anfíbios)](categorias/fauna-répteis-anfíbios.md)
   * [Fauna e flora (vários/outros)]
-  * [Flora](flora.md)
+  * [Flora](categorias/flora.md)
   * [Fotografia]
 
 * G
-  * [Geologia](geologia.md)
+  * [Geologia](categorias/geologia.md)
   * [Guerra, primeira e segunda guerras mundiais]
-  * [Guerra, outras](guerras-outras.md)
+  * [Guerra, outras](categorias/guerras-outras.md)
 
 * H
   * [História]
@@ -56,13 +56,13 @@
   * [Invenções]
   
 * J
-  * [Justiça](justiça.md)
+  * [Justiça](categorias/justiça.md)
 
 * M
-  * [Marte](marte.md)
+  * [Marte](categorias/marte.md)
   * [Medicina e biologia humana]
   * [Minas]
-  * [Mulheres]
+  * [Mulheres](categorias/mulheres.md)
 
 * N
   * [National Geographic]
@@ -76,14 +76,14 @@
 
 * R
   * [Religião]
-  * [Robótica](robótica.md)
+  * [Robótica](categorias/robótica.md)
 
 * S
   * [Saúde e bem-estar]
-  * [Sustentabilidade](sustentabilidade.md)
+  * [Sustentabilidade](categorias/sustentabilidade.md)
 
 * T
-  * [Tecnologia](tecnologia.md)
+  * [Tecnologia](categorias/tecnologia.md)
   * [Transportes]
 
 * #
@@ -141,3 +141,7 @@
         <td>2015</td>
     </tr>
 </table>
+
+### Edições especiais
+* Grandes Mulheres
+  * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**, **Mulheres**
