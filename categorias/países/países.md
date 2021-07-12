@@ -170,7 +170,7 @@ Kuwait.
   * [Nova Zelândia](nova-zelândia.md)
 
 * O
-  * Omã
+  * [Omã](omã.md)
   * Ossétia do Sul
 
 * P
@@ -195,8 +195,6 @@ Kuwait.
 * R
   * República Árabe Saaraui Democrática
   * República Centro-Africana
-  * República Democrática do Congo
-  * República do Congo
   * República Dominicana
   * República Tcheca (ou Tchéquia)
   * República Turca de Chipre do Norte
