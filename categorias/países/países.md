@@ -122,10 +122,10 @@
   * [Japão](japão.md)
   * [Jordânia](jordânia.md)
 
-Países com K
-Kiribati (ou Quiribati);
-Kosovo;
-Kuwait.
+* K
+  * Kiribati (ou Quiribati)
+  * Kosovo
+  * Kuwait
 
 * L
   * Laos
