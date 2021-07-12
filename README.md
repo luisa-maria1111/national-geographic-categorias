@@ -11,7 +11,6 @@
   * [Arqueologia](categorias/arqueologia.md)
   * [Arquitectura]
   * [Arte](categorias/arte.md)
-  * [Astronomia]
   
 * B
   * [Biotecnologia]
@@ -20,7 +19,6 @@
   * [Carros] 
   * [Comércio animal](categorias/comércio-animal.md)
   * [Conservação](categorias/conservação.md)
-  * [Cultura]
 
 * D 
   * [Dor]
@@ -142,9 +140,19 @@
 </table>
 
 ### Edições especiais
+* Arqueologia
+  * Templos do Egipto - **História: Antiguidade Oriental**
+  
 * Ciência
   * Nº2: Atrasar o envelhecimento, o desafio da biomedicina - **Alimentação**; **Neurociência**; **Saúde e bem-estar**; **Medicina e biologia humana**; **Espaço**; **Tecnologia**; **História: Idade Contemporânea**; **Arquitectura**
 
+* Cosmos
+  * O Sol - colosso de fogo - **Espaço**
+
+* Cultura
+  * Guia prático de fotografia, de Joel Sartore - **Fotografia**
+  * 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia** 
+  
 * Grandes Mulheres
   * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História: Antiguidade Clássica**
 
@@ -152,7 +160,6 @@
   * O século das luzes, quando os filósofos mudaram o mundo - **História: Idade Moderna**
   
 * Viagens
+  * Paraísos naturais - **Países**; **Fauna (água)**
   * 50 maravilhas de Portugal - **Países: Portugal** 
   
-* Outras
-  * 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia** 

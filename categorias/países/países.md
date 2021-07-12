@@ -2,238 +2,258 @@
 
 * A
   * Abecásia
-Afeganistão;
-África do Sul;
-Albânia;
-Alemanha;
-Andorra;
-Angola;
-Antígua e Barbuda;
-Arábia Saudita;
-Argélia;
-Argentina;
-Armênia;
-Austrália;
-Áustria;
-Azerbaijão.
-Países com B
-Bahamas;
-Bahrein (ou Barein, ou Barém);
-Bangladesh;
-Barbados;
-Bélgica;
-Belize;
-Benim;
-Bielorrússia;
-Bolívia;
-Bósnia e Herzegovina;
-Botswana (ou Botsuana);
-Brasil;
-Brunei;
-Bulgária;
-Burkina Faso (ou Burquina Faso);
-Burundi;
-Butão.
-Países com C
-Cabo Verde;
-Camarões;
-Camboja;
-Canadá;
-Catar (ou Qatar);
-Cazaquistão;
-Chade;
-Chile;
-China;
-Chipre;
-Cingapura (ou Singapura);
-Colômbia;
-Comores;
-Congo;
-Coreia do Norte;
-Coreia do Sul;
-Costa do Marfim;
-Costa Rica;
-Croácia;
-Cuba.
-Países com D
-Dinamarca;
-Djibouti (ou Djibuti);
-Dominica.
-Países com E
-Egito;
-El Salvador;
-Emirados Árabes Unidos;
-Equador;
-Eritreia;
-Escócia
-Eslováquia;
-Eslovênia;
-Espanha;
-Estados Federados da Micronésia;
-Estados Unidos da América;
-Estônia;
-Eswatini (ou Essuatíni, ou Suazilândia);
-Etiópia.
-Países com F
-Fiji;
-Filipinas;
-Finlândia;
-França.
-Países com G
-Gabão;
-Gâmbia;
-Gana;
-Geórgia;
-Granada;
-Grécia;
-Guatemala;
-Guiana;
-Guiné;
-Guiné-Bissau;
-Guiné Equatorial.
-Países com H
-Haiti;
-Holanda;
-Honduras;
-Hungria.
-Países com I
-Iêmen;
-Índia;
-Indonésia;
-Inglaterra
-Irã (ou Irão);
-Iraque;
-Irlanda do Norte
-Irlanda;
-Islândia;
-Israel;
-Itália.
-Países com J
-Jamaica;
-Japão;
-Jordânia.
+  * Afeganistão
+  * [África do Sul](áfrica-do-sul.md)
+  * Albânia
+  * Alemanha
+  * Andorra
+  * Angola
+  * Antígua e Barbuda
+  * [Arábia Saudita](arábia-saudita.md)
+  * [Argélia](argélia.md)
+  * [Argentina](argentina.md)
+  * Armênia
+  * [Austrália](austrália.md)
+  * [Áustria](áustria.md)
+  * Azerbaijão
+
+* B
+  * Bahamas
+  * Bahrein (ou Barein, ou Barém)
+  * Bangladesh
+  * Barbados
+  * Bélgica
+  * Belize
+  * Benim
+  * [Bielorrússia](bielorrússia.md)
+  * [Bolívia](bolívia.md)
+  * Bósnia e Herzegovina
+  * [Botswana](botswana.md)
+  * [Brasil](brasil.md)
+  * [Brunei](brunei.md)
+  * Bulgária
+  * Burkina Faso (ou Burquina Faso)
+  * Burundi
+  * [Butão](butão.md)
+
+* C
+  * Cabo Verde
+  * Camarões
+  * Camboja
+  * [Canadá](canadá.md)
+  * Catar (ou Qatar)
+  * [Cazaquistão](cazaquistão.md)
+  * [Chade](chade.md)
+  * [Chile](chile.md)
+  * [China](china.md)
+  * Chipre
+  * Cingapura (ou Singapura)
+  * [Colômbia](colômbia.md)
+  * Comores
+  * [Congo](congo.md)
+  * Coreia do Norte
+  * [Coreia do Sul](coreia-do-sul.md)
+  * Costa do Marfim
+  * [Costa Rica](costa-rica.md)
+  * Croácia
+  * Cuba
+  
+* D
+  * [Dinamarca](dinamarca.md)
+  * Djibouti (ou Djibuti)
+  * Dominica
+  
+* E
+  * [Egipto](egipto.md)
+  * El Salvador
+  * [Emirados Árabes Unidos](emirados-árabes-unidos.md)
+  * [Equador](equador.md)
+  * Eritreia 
+  * [Escócia](escócia.md)
+  * Eslováquia
+  * [Eslovênia](eslovênia.md)
+  * [Espanha](espanha.md)
+  * Estados Federados da Micronésia
+  * [Estados Unidos da América](estados-unidos-da-américa.md)
+  * Estônia
+  * Eswatini (ou Essuatíni, ou Suazilândia)
+  * Etiópia
+  
+* F
+  * Fiji
+  * [Filipinas](filipinas.md)
+  * Finlândia
+  * [França](frança.md)
+
+* G
+  * Gabão
+  * Gâmbia
+  * Gana
+  * Geórgia
+  * Granada
+  * [Grécia](grécia.md)
+  * [Guatemala](guatemala.md)
+  * [Guiana](guiana.md)
+  * Guiné
+  * Guiné-Bissau
+  * Guiné Equatorial
+  
+* H
+  * Haiti
+  * Holanda
+  * Honduras
+  * Hungria
+
+* I
+  * [Iémen](iémen.md)
+  * [Índia](índia.md)
+  * [Indonésia](indonésia.md)
+  * Inglaterra
+  * Irã (ou Irão)
+  * Iraque
+  * Irlanda do Norte
+  * [Irlanda](irlanda.md)
+  * [Islândia](islândia.md)
+  * [Israel](israel.md)
+  * [Itália](itália.md)
+
+* J
+  * Jamaica
+  * [Japão](japão.md)
+  * [Jordânia](jordânia.md)
+
 Países com K
 Kiribati (ou Quiribati);
 Kosovo;
 Kuwait.
-Países com L
-Laos;
-Lesoto;
-Letônia;
-Líbano;
-Libéria;
-Líbia;
-Liechtenstein (ou Listenstaine);
-Lituânia;
-Luxemburgo.
-Países com M
-Macedônia do Norte;
-Madagascar (ou Madagáscar);
-Malásia;
-Malawi (ou Malauí);
-Maldivas;
-Mali;
-Malta;
-Marrocos;
-Marshall;
-Maurícia;
-Mauritânia;
-México;
-Mianmar;
-Micronésia;
-Moçambique;
-Moldávia;
-Mônaco;
-Mongólia;
-Montenegro.
-Países com N
-Namíbia;
-Nauru;
-Nepal;
-Nicarágua:
-Níger;
-Nigéria;
-Noruega;
-Nova Zelândia.
-Países com O
-Omã;
-Ossétia do Sul.
+
+* L
+  * Laos
+  * Lesoto
+  * Letônia
+  * [Líbano](líbano.md)
+  * Libéria
+  * [Líbia](líbia.md)
+  * Liechtenstein (ou Listenstaine)
+  * Lituânia
+  * Luxemburgo
+
+* M
+  * Macedônia do Norte
+  * [Madagáscar](madagáscar.md)
+  * Malásia
+  * [Malawi](malawi.md)
+  * [Maldivas](maldivas.md)
+  * [Mali](mali.md)
+  * Malta
+  * [Marrocos](marrocos.md)
+  * Marshall
+  * Maurícia
+  * [Mauritânia](mauritânia.md)
+  * [México](méxico.md)
+  * Micronésia
+  * [Moçambique](moçambique.md)
+  * Moldávia
+  * Mônaco
+  * [Mongólia](mongólia.md)
+  * Montenegro
+  * [Myanmar](myanmar.md)
+  
+* N
+  * [Namíbia](namíbia.md)
+  * Nauru
+  * [Nepal](nepal.md)
+  * Nicarágua
+  * [Níger](níger.md)
+  * Nigéria
+  * [Noruega](noruega.md)
+  * [Nova Zelândia](nova-zelândia.md)
+
+* O
+  * Omã
+  * Ossétia do Sul
+
 * P
     * País de Gales
     * Países Baixos
     * Palau
     * Palestina
     * Panamá
-    * Papua-Nova Guiné
-    * Paquistão
+    * [Papua-Nova Guiné](papua-nova-guiné.md)
+    * [Paquistão](paquistão.md)
     * Paraguai
-    * Peru
-    * Polônia
+    * [Peru](peru.md)
+    * [Polónia](polónia.md)
     * [Portugal](portugal.md)
   
-Países com Q
-Qatar (ou Catar);
-Quênia;
-Quirguistão;
-Quiribati (ou Kiribati).
-Países com R
-Reino Unido;
-República Árabe Saaraui Democrática;
-República Centro-Africana;
-República Democrática do Congo;
-República do Congo;
-República Dominicana;
-República Tcheca (ou Tchéquia);
-República Turca de Chipre do Norte;
-Romênia;
-Ruanda;
-Rússia.
-Países com S
-Salomão;
-Samoa;
-San Marino (ou São Marinho);
-Santa Lúcia;
-São Cristóvão e Névis (ou São Cristóvão e Neves);
-São Tomé e Príncipe;
-São Vicente e Granadinas;
-Senegal;
-Serra Leoa;
-Sérvia;
-Seychelles (ou Seicheles);
-Singapura (ou Cingapura);
-Síria;
-Somália;
-Sri Lanka;
-Suazilândia (ou Eswatini, ou Essuatíni);
-Sudão do Sul;
-Sudão;
-Suécia;
-Suíça;
-Suriname.
-Países com T
-Tailândia;
-Taiwan;
-Tajiquistão (ou Tadjiquistão);
-Tanzânia;
-Tchéquia (ou República Tcheca);
-Timor-Leste;
-Togo;
-Tonga;
-Trinidad e Tobago;
-Tunísia;
-Turcomenistão (ou Turquemenistão);
-Turquia;
-Tuvalu.
-Países com U
-Ucrânia;
-Uganda;
-Uruguai;
-Uzbequistão.
-Países com V
-Vanuatu;
-Vaticano;
-Venezuela;
-Vietnã (ou Vietname).
-Países com Z
-Zâmbia;
-Zimbábue.
+* Q
+  * Qatar (ou Catar)
+  * [Quênia](quênia.md)
+  * Quirguistão
+  * Quiribati (ou Kiribati)
+
+* R
+  * República Árabe Saaraui Democrática
+  * República Centro-Africana
+  * República Democrática do Congo
+  * República do Congo
+  * República Dominicana
+  * República Tcheca (ou Tchéquia)
+  * República Turca de Chipre do Norte
+  * Romênia
+  * Ruanda
+  * [Rússia](rússia.md)
+
+* S
+  * Salomão
+  * Samoa
+  * San Marino (ou São Marinho)
+  * Santa Lúcia
+  * São Cristóvão e Névis (ou São Cristóvão e Neves)
+  * São Tomé e Príncipe
+  * São Vicente e Granadinas
+  * Senegal
+  * Serra Leoa
+  * Sérvia
+  * [Seychelles](seychelles.md)
+  * Singapura (ou Cingapura)
+  * Síria
+  * Somália
+  * Sri Lanka
+  * Suazilândia (ou Eswatini, ou Essuatíni)
+  * Sudão do Sul
+  * [Sudão](sudão.md)
+  * [Suécia](suécia.md)
+  * Suíça
+  * [Suriname](suriname.md)
+  
+* T
+  * [Tailândia](tailândia.md)
+  * Taiwan
+  * Tajiquistão (ou Tadjiquistão)
+  * [Tanzânia](tanzânia.md)
+  * Tchéquia (ou República Tcheca)
+  * Timor-Leste
+  * Togo
+  * Tonga
+  * Trinidad e Tobago
+  * [Tunísia](tunísia.md)
+  * Turcomenistão (ou Turquemenistão)
+  * Turquia
+  * Tuvalu
+
+* U
+  * Ucrânia
+  * [Uganda](uganda.md)
+  * Uruguai
+  * Uzbequistão
+
+* V
+  * Vanuatu
+  * Vaticano
+  * [Venezuela](venezuela.md)
+  * [Vietname](vietname.md)
+  
+* Z
+  * [Zâmbia](zâmbia.md)
+  * Zimbábue
