@@ -8,3 +8,7 @@
 * Niágara - Edição Especial Viagens: As Melhores Férias
 * Nova Iorque - Edição Especial Viagens: As Melhores Férias
 * Yellowstone - Edição Especial Viagens: Paraísos Naturais
+
+## Relacionados (que se encontra ou que se passa neste país)
+* Encarcerados injustamente - Março 2021 - **Justiça**
+* Uma fronteira nas montanhas (guerra entre índia e Paquistão) - **Guerras, outras**
