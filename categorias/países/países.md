@@ -55,7 +55,7 @@
   * [Coreia do Sul](coreia-do-sul.md)
   * Costa do Marfim
   * [Costa Rica](costa-rica.md)
-  * Croácia
+  * [Croácia](croácia.md)
   * Cuba
   
 * D
@@ -188,7 +188,7 @@
   
 * Q
   * Qatar (ou Catar)
-  * [Quênia](quênia.md)
+  * [Quénia](quénia.md)
   * Quirguistão
   * Quiribati (ou Kiribati)
 

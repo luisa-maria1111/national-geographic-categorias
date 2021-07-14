@@ -160,6 +160,7 @@
   * O século das luzes, quando os filósofos mudaram o mundo - **História: Idade Moderna**
   
 * Viagens
-  * Paraísos naturais - **Países**; **Fauna (água)**
+  * Edição Especial Viagens: As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
+  * Paraísos naturais - **Países: vários**; **Fauna (água)**
   * 50 maravilhas de Portugal - **Países: Portugal** 
   
