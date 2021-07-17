@@ -4,5 +4,6 @@
 * Cleópatra, a verdadeira história da última rainha do Egipto - Edição especial Grandes Mulheres
 * Machu Picchu, o relato original da descoberta - Edição Especial
 * Reconquista da Lua - Edição Especial Ciência nº2
+* O massacre racial de Tulsa - Julho 2021
 * O século das luzes, quando os filósofos mudaram o mundo - Edição especial História
 * Templos do Egipto - Edição Especial Arqueologia

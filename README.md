@@ -6,8 +6,8 @@
 * A
   * [Ativismo]
   * [Alimentação](categorias/alimentação.md)
-  * [Alterações climáticas]
-  * [Antropologia]
+  * [Alterações climáticas](alterações-climáticas.md)
+  * [Antropologia](categorias/antropologia.md)
   * [Arqueologia](categorias/arqueologia.md)
   * [Arquitectura]
   * [Arte](categorias/arte.md)
@@ -46,7 +46,7 @@
   * [Guerra, outras](categorias/guerras-outras.md)
 
 * H
-  * [História](categorias/história/história.md)
+  * [História](categorias/história.md)
 
 * I
   * [Invenções]
@@ -68,16 +68,16 @@
 
 * P
   * [Países](categorias/países/países.md)
-  * [Paleontologia]
+  * [Paleontologia](categorias/paleontologia.md)
   * [Pequenas histórias]
-  * [Política, Geografia e Estatísticas]
+  * [Política, Geografia e Estatísticas](categorias/política-geografia-estatísticas.md)
 
 * R
   * [Religião]
   * [Robótica](categorias/robótica.md)
 
 * S
-  * [Saúde e bem-estar]
+  * [Saúde e bem-estar](categorias/saúde-bem-estar.md)
   * [Sustentabilidade](categorias/sustentabilidade.md)
 
 * T
@@ -113,7 +113,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>X</td>
         <td></td>
         <td></td>
         <td></td>
@@ -158,7 +158,7 @@
   * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História**
 
 * História 
-  * As origens da Grécia, a aurora de uma civilização - **Arqueologia**; **História**
+  * As origens da Grécia, a aurora de uma civilização - **Arqueologia**; **História**; **Antropologia**
   * O século das luzes, quando os filósofos mudaram o mundo - **História**
   
 * Matemática

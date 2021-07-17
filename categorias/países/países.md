@@ -109,7 +109,7 @@
   * [Índia](índia.md)
   * [Indonésia](indonésia.md)
   * [Inglaterra](inglaterra.md)
-  * Irã (ou Irão)
+  * [Irão](irão.md)
   * Iraque
   * Irlanda do Norte
   * [Irlanda](irlanda.md)

@@ -10,5 +10,8 @@
 * Yellowstone - Edição Especial Viagens: Paraísos Naturais
 
 ## Relacionados (que se encontra ou que se passa neste país)
+* A sombra que divide - **Política, Geografia e Estatísticas**; **Justiça**
+* Demasiado calor para viver - Julho 2021 - **Alterações climáticas**; **Saúde e bem-estar**
 * Encarcerados injustamente - Março 2021 - **Justiça**
-* Uma fronteira nas montanhas (guerra entre índia e Paquistão) - **Guerras, outras**
+* O massacre racial de Tulsa - Julho 2021 - **Justiça**; **História**
+* Uma fronteira nas montanhas (guerra entre índia e Paquistão) - Março 2021 - **Guerras, outras**
