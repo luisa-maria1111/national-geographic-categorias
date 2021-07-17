@@ -157,11 +157,14 @@
   * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História**
 
 * História 
-  * As origens da Grécia, a aurora de uma civilização - **Arqueologia**, **História**
+  * As origens da Grécia, a aurora de uma civilização - **Arqueologia**; **História**
   * O século das luzes, quando os filósofos mudaram o mundo - **História**
   
 * Viagens
   * Edição Especial Viagens: As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
   * Paraísos naturais - **Países: vários**; **Fauna (água)**
   * 50 maravilhas de Portugal - **Países: Portugal** 
+
+* Outros
+  * Edição Especial: Machu Picchu, o relato original da descoberta - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **História**
   
