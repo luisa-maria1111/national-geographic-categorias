@@ -141,10 +141,10 @@
 
 ### Edições especiais
 * Arqueologia
-  * Templos do Egipto - **História: Antiguidade Oriental**
+  * Templos do Egipto - **História**
   
 * Ciência
-  * Nº2: Atrasar o envelhecimento, o desafio da biomedicina - **Alimentação**; **Neurociência**; **Saúde e bem-estar**; **Medicina e biologia humana**; **Espaço**; **Tecnologia**; **História: Idade Contemporânea**; **Arquitectura**
+  * Nº2: Atrasar o envelhecimento, o desafio da biomedicina - **Alimentação**; **Neurociência**; **Saúde e bem-estar**; **Medicina e biologia humana**; **Espaço**; **Tecnologia**; **História**; **Arquitectura**
 
 * Cosmos
   * O Sol - colosso de fogo - **Espaço**
@@ -154,10 +154,11 @@
   * 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia** 
   
 * Grandes Mulheres
-  * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História: Antiguidade Clássica**
+  * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História**
 
 * História 
-  * O século das luzes, quando os filósofos mudaram o mundo - **História: Idade Moderna**
+  * As origens da Grécia, a aurora de uma civilização - **Arqueologia**, **História**
+  * O século das luzes, quando os filósofos mudaram o mundo - **História**
   
 * Viagens
   * Edição Especial Viagens: As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
