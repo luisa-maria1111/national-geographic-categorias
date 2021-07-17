@@ -56,6 +56,7 @@
 
 * M
   * [Marte](categorias/marte.md)
+  * [Matemática](categorias/matemática.md)
   * [Medicina e biologia humana](categorias/medicina-biologia-humana.md)
   * [Minas]
   * [Mulheres](categorias/mulheres.md)
@@ -160,11 +161,14 @@
   * As origens da Grécia, a aurora de uma civilização - **Arqueologia**; **História**
   * O século das luzes, quando os filósofos mudaram o mundo - **História**
   
+* Matemática
+  * Uma descoberta sem fim, o infinito matemático - **Matemática**
+
 * Viagens
-  * Edição Especial Viagens: As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
+  * As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
   * Paraísos naturais - **Países: vários**; **Fauna (água)**
   * 50 maravilhas de Portugal - **Países: Portugal** 
 
 * Outros
-  * Edição Especial: Machu Picchu, o relato original da descoberta - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **História**
+  * Machu Picchu, o relato original da descoberta - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **História**
   
