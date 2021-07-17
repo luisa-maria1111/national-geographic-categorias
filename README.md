@@ -113,7 +113,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td>X</td>
+        <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</td>
         <td></td>
         <td></td>
         <td></td>
