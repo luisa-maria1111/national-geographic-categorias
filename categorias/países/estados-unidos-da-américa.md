@@ -14,4 +14,5 @@
 * Demasiado calor para viver - Julho 2021 - **Alterações climáticas**; **Saúde e bem-estar**
 * Encarcerados injustamente - Março 2021 - **Justiça**
 * O massacre racial de Tulsa - Julho 2021 - **Justiça**; **História**
+* O regresso do puma da Florida - Junho 2021 - **Conservação**; **Fauna (terra)**
 * Uma fronteira nas montanhas (guerra entre índia e Paquistão) - Março 2021 - **Guerras, outras**

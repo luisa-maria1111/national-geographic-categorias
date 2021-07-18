@@ -25,18 +25,18 @@
   * [Drogas]
 
 * E 
-  * [Entrevistas]
+  * [Entrevistas](categorias/entrevistas.md)
   * [Espaço](categorias/espaço.md)
   * [Exploradores/Pioneiros/Pessoas corajosas e interessantes](categorias/exploradores.md)
 
 * F
   * [Fauna (água)](categorias/fauna-água.md)
-  * [Fauna (aves)]
+  * [Fauna (aves)](categorias/fauna-aves.md)
   * [Fauna (fungos)]
-  * [Fauna (terra)]
+  * [Fauna (terra)](categorias/fauna-terra.md)
   * [Fauna (insectos)]
   * [Fauna (répteis e anfíbios)](categorias/fauna-répteis-anfíbios.md)
-  * [Fauna e flora (vários/outros)]
+  * [Fauna e flora (vários/outros)](categorias/fauna-flora-outros.md)
   * [Flora](categorias/flora.md)
   * [Fotografia](categorias/fotografia.md)
 
@@ -73,6 +73,7 @@
   * [Política, Geografia e Estatísticas](categorias/política-geografia-estatísticas.md)
 
 * R
+  * [Raça](categorias/raça.md)
   * [Religião]
   * [Robótica](categorias/robótica.md)
 
@@ -85,7 +86,7 @@
   * [Transportes]
 
 * #
-  * [3D]
+  * [3D](categorias/3d.md)
 
 ## Revistas disponíveis
 
@@ -112,8 +113,8 @@
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/mar%C3%A7o-2021.md">X</a></td>
         <td></td>
         <td></td>
-        <td></td>
-        <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</td>
+        <td><a>X</a></td>
+        <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</a></td>
         <td></td>
         <td></td>
         <td></td>

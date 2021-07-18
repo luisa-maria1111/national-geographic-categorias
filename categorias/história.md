@@ -1,5 +1,6 @@
 # História
 
+* Ver [Arqueologia](categorias/arqueologia.md)
 * As origens da Grécia, a aurora de uma civilização - Edição Especial História
 * Cleópatra, a verdadeira história da última rainha do Egipto - Edição especial Grandes Mulheres
 * Machu Picchu, o relato original da descoberta - Edição Especial
