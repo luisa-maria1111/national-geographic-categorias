@@ -16,7 +16,6 @@
   * [Biotecnologia]
 
 * C
-  * [Carros] 
   * [Comércio animal](categorias/comércio-animal.md)
   * [Conservação](categorias/conservação.md)
 
@@ -49,7 +48,7 @@
   * [História](categorias/história.md)
 
 * I
-  * [Invenções]
+
   
 * J
   * [Justiça](categorias/justiça.md)
@@ -69,7 +68,6 @@
 * P
   * [Países](categorias/países/países.md)
   * [Paleontologia](categorias/paleontologia.md)
-  * [Pequenas histórias]
   * [Política, Geografia e Estatísticas](categorias/política-geografia-estatísticas.md)
 
 * R
@@ -83,7 +81,7 @@
 
 * T
   * [Tecnologia](categorias/tecnologia.md)
-  * [Transportes]
+  * [Transportes](categorias/transportes.md)
 
 * #
   * [3D](categorias/3d.md)
@@ -115,7 +113,7 @@
         <td></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/junho-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</a></td>
-        <td></td>
+        <td><a href="">X</a></td>
         <td></td>
         <td></td>
         <td></td>

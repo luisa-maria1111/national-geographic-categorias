@@ -7,6 +7,7 @@
 * Montanhas Rochosas - Edição Especial Viagens: Paraísos Naturais
 * Niágara - Edição Especial Viagens: As Melhores Férias
 * Nova Iorque - Edição Especial Viagens: As Melhores Férias
+* Visão de túnel - Agosto 2021
 * Yellowstone - Edição Especial Viagens: Paraísos Naturais
 
 ## Relacionados (que se encontra ou que se passa neste país)
