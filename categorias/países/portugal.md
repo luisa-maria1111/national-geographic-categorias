@@ -6,9 +6,12 @@
 
 ## Relacionados (que se encontra ou que se passa neste país)
 * As larnakes de Neves I - Março 2021 - **Arqueologia**
+* As ondas gigantes de Nazaré - Fevereiro 2021 - **Geologia**
 * A ciência dos campeões - Julho 2021 - **Medicina e biologia humana**
 * A dama romana da Amadora - Junho 2021 - **Arqueologia**; **3D**
+* A vida ainda por estudar - Fevereiro 2021 - **Geologia**; **Minas**
 * Gaivota de Audouin - Agosto 2021 - **Conservação**; **Fauna (aves)**
+* Lisboa a aguarela - Fevereiro 2021 - **Arte**
 * Mil anos em Idanha - Junho 2021 - **Arqueologia**
 * Não há nada igual no mundo! - Agosto 2021 - **Tecnologia**; **Transportes**
 * O incrível ciclo das sardinhas - Março 2021 - **Fauna (água)**; **Comércio animal**; **Conservação**

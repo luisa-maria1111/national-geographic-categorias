@@ -6,7 +6,7 @@
 * A
   * [Ativismo]
   * [Alimentação](categorias/alimentação.md)
-  * [Alterações climáticas](alterações-climáticas.md)
+  * [Alterações climáticas](categorias/alterações-climáticas.md)
   * [Antropologia](categorias/antropologia.md)
   * [Arqueologia](categorias/arqueologia.md)
   * [Arquitectura]
@@ -33,7 +33,7 @@
   * [Fauna (aves)](categorias/fauna-aves.md)
   * [Fauna (fungos)]
   * [Fauna (terra)](categorias/fauna-terra.md)
-  * [Fauna (insectos)]
+  * [Fauna (insectos)](categorias/fauna-insectos.md)
   * [Fauna (répteis e anfíbios)](categorias/fauna-répteis-anfíbios.md)
   * [Fauna e flora (vários/outros)](categorias/fauna-flora-outros.md)
   * [Flora](categorias/flora.md)
@@ -57,7 +57,7 @@
   * [Marte](categorias/marte.md)
   * [Matemática](categorias/matemática.md)
   * [Medicina e biologia humana](categorias/medicina-biologia-humana.md)
-  * [Minas]
+  * [Minas](categorias/minas.md)
   * [Mulheres](categorias/mulheres.md)
 
 * N
@@ -72,6 +72,7 @@
 
 * R
   * [Raça](categorias/raça.md)
+  * [Refugiados](categorias/refugiados.md)
   * [Religião]
   * [Robótica](categorias/robótica.md)
 
@@ -82,6 +83,9 @@
 * T
   * [Tecnologia](categorias/tecnologia.md)
   * [Transportes](categorias/transportes.md)
+
+* V
+  * [Vírus](categorias/vírus.md)
 
 * #
   * [3D](categorias/3d.md)

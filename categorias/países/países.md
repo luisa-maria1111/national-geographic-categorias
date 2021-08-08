@@ -101,7 +101,7 @@
 * H
   * Haiti
   * Holanda
-  * Honduras
+  * [Honduras](honduras.md)
   * Hungria
 
 * I
@@ -214,9 +214,9 @@
   * Serra Leoa
   * Sérvia
   * [Seychelles](seychelles.md)
-  * Singapura (ou Cingapura)
+  * [Singapura](singapura.md)
   * Síria
-  * Somália
+  * [Somália](somália.md)
   * Sri Lanka
   * Suazilândia (ou Eswatini, ou Essuatíni)
   * Sudão do Sul
