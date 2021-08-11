@@ -5,11 +5,12 @@
 * 50 maravilhas de Portugal - Edição Especial Viagens
 
 ## Relacionados (que se encontra ou que se passa neste país)
-* As larnakes de Neves I - Março 2021 - **Arqueologia**
-* As ondas gigantes de Nazaré - Fevereiro 2021 - **Geologia**
 * A ciência dos campeões - Julho 2021 - **Medicina e biologia humana**
 * A dama romana da Amadora - Junho 2021 - **Arqueologia**; **3D**
 * A vida ainda por estudar - Fevereiro 2021 - **Geologia**; **Minas**
+* As larnakes de Neves I - Março 2021 - **Arqueologia**
+* As ondas gigantes de Nazaré - Fevereiro 2021 - **Geologia**
+* Abutres à solta - Janeiro 2021 - **Conservação**; **Fauna (aves)**
 * Gaivota de Audouin - Agosto 2021 - **Conservação**; **Fauna (aves)**
 * Lisboa a aguarela - Fevereiro 2021 - **Arte**
 * Mil anos em Idanha - Junho 2021 - **Arqueologia**

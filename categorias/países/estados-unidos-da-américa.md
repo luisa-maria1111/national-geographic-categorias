@@ -12,6 +12,7 @@
 
 ## Relacionados (que se encontra ou que se passa neste país)
 * A sombra que divide - Julho 2021 - **Política, Geografia e Estatísticas**; **Justiça**
+* Cuidados em miniatura - Janeiro 2021 - **Flora**
 * Demasiado calor para viver - Julho 2021 - **Alterações climáticas**; **Saúde e bem-estar**
 * Encarcerados injustamente - Março 2021 - **Justiça**
 * O massacre racial de Tulsa - Julho 2021 - **Justiça**; **História**

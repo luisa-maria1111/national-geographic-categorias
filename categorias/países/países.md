@@ -20,7 +20,7 @@
 * B
   * Bahamas
   * Bahrein (ou Barein, ou Barém)
-  * Bangladesh
+  * [Bangladesh](bangladesh.md)
   * Barbados
   * Bélgica
   * Belize
@@ -241,7 +241,7 @@
   * Tuvalu
 
 * U
-  * Ucrânia
+  * [Ucrânia](ucrânia.md)
   * [Uganda](uganda.md)
   * Uruguai
   * Uzbequistão
