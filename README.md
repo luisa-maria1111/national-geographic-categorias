@@ -118,7 +118,7 @@
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/junho-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/agosto-2021.md">X</a></td>
-        <td><a href = "https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/setembro-2021.md"></a>X</td>
+        <td><a href = "https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/setembro-2021.md">X</a></td>
         <td></td>
         <td></td>
         <td></td>
