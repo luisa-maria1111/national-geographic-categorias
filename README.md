@@ -159,6 +159,7 @@
   * 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia** 
   
 * Grandes Mulheres
+  * Agatha Christie, enigmas de uma escritora - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**
   * Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História**
 
 * História 
