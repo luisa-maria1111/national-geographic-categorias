@@ -14,7 +14,9 @@
 * A sombra que divide - Julho 2021 - **Política, Geografia e Estatísticas**; **Justiça**
 * Cuidados em miniatura - Janeiro 2021 - **Flora**
 * Demasiado calor para viver - Julho 2021 - **Alterações climáticas**; **Saúde e bem-estar**
+* Ecos de perda - Setembro 2021 - **Outras guerras**
 * Encarcerados injustamente - Março 2021 - **Justiça**
 * O massacre racial de Tulsa - Julho 2021 - **Justiça**; **História**
 * O regresso do puma da Florida - Junho 2021 - **Conservação**; **Fauna (terra)**
+* Rochas e estrelas - Setembro 2021 - **Fotografia**
 * Uma fronteira nas montanhas (guerra entre índia e Paquistão) - Março 2021 - **Guerras, outras**

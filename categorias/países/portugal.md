@@ -13,6 +13,7 @@
 * Abutres à solta - Janeiro 2021 - **Conservação**; **Fauna (aves)**
 * Gaivota de Audouin - Agosto 2021 - **Conservação**; **Fauna (aves)**
 * Lisboa a aguarela - Fevereiro 2021 - **Arte**
+* Marcas de uma guerra esquecida - **Arqueologia**; **Outras guerras**
 * Mil anos em Idanha - Junho 2021 - **Arqueologia**
 * Não há nada igual no mundo! - Agosto 2021 - **Tecnologia**; **Transportes**
 * O incrível ciclo das sardinhas - Março 2021 - **Fauna (água)**; **Comércio animal**; **Conservação**

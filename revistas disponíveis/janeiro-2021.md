@@ -9,5 +9,5 @@
 * Mordeduras que matam - **Fauna (répteis e anfíbios)**; **Medicina e biologia humana**; **Política, Geografia e Estatísticas**
 * Nova Zelândia, um modelo de protecção da natureza - **Conservação**; **Justiça** 
 * Os matagi, caçadores do Japão - **Países: Japão**
-* Raparigas de Bengala, vidas roubadas - **Dor**; **Justiça**; **Mulheres** 
+* Raparigas de Bengala, vidas roubadas - **Justiça**; **Mulheres** 
 

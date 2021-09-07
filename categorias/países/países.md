@@ -2,7 +2,7 @@
 
 * A
   * Abecásia
-  * Afeganistão
+  * [Afeganistão](afeganistão.md)
   * [África do Sul](áfrica-do-sul.md)
   * Albânia
   * Alemanha
