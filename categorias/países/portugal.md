@@ -7,6 +7,7 @@
 ## Relacionados (que se encontra ou que se passa neste país)
 * A ciência dos campeões - Julho 2021 - **Medicina e biologia humana**
 * A dama romana da Amadora - Junho 2021 - **Arqueologia**; **3D**
+*  A semente de uma boa ideia - Maio 2021 - **Conservação**; **Fauna (água)**; **Comércio animal**
 * A vida ainda por estudar - Fevereiro 2021 - **Geologia**; **Minas**
 * As larnakes de Neves I - Março 2021 - **Arqueologia**
 * As ondas gigantes de Nazaré - Fevereiro 2021 - **Geologia**

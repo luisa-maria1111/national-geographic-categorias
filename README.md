@@ -3,6 +3,9 @@
 * A cada categoria estão associados vários artigos que abordam esse tema, referindo, poranto, o nome do artigo e a edição (mês/ano) em que foi publicado. 
 * Pretende-se ter aqui uma forma rápida de pesquisar artigos científicos da National Geographic através de várias categorias. Pode ser útil, para fazer alguma pesquisa sobre um dado assunto. 
 
+* #
+  * [3D](categorias/3d.md)
+
 * A
   * [Ativismo]
   * [Alimentação](categorias/alimentação.md)
@@ -62,7 +65,7 @@
 
 * N
   * [National Geographic]
-  * [Natureza e ciência relacionada]
+  * [Natureza e ciência relacionada](categorias/natureza-ciência-relacionada.md)
   * [Neurociência](categorias/neurociência.md)
 
 * P
@@ -86,9 +89,6 @@
 
 * V
   * [Vírus](categorias/vírus.md)
-
-* #
-  * [3D](categorias/3d.md)
 
 ## Revistas disponíveis
 
@@ -114,7 +114,7 @@
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/fevereiro-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/mar%C3%A7o-2021.md">X</a></td>
         <td></td>
-        <td></td>
+        <td><a href="">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/junho-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/julho-2021.md">X</a></td>
         <td><a href="https://github.com/luisa-maria1111/national-geographic-categorias/blob/main/revistas%20dispon%C3%ADveis/agosto-2021.md">X</a></td>
