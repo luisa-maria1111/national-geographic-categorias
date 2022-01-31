@@ -10,3 +10,4 @@
 
 - Demasiado calor para viver - Julho 2021 - **Alterações climáticas**; **Saúde e bem-estar**
 - Gladiadores, o clube de combate da Antiga Roma - Agosto 2021 - **História**
+- Olympe de Gouges, uma feminista avançada - Edição História, Fevereiro Março 2022 - **Mulheres**

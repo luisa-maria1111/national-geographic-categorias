@@ -14,7 +14,7 @@
   - [Alterações climáticas](categorias/alterações-climáticas.md)
   - [Antropologia](categorias/antropologia.md)
   - [Arqueologia](categorias/arqueologia.md)
-  - [Arquitectura]
+  - [Arquitectura](categorias/arquitectura.md)
   - [Arte](categorias/arte.md)
 - B
 
@@ -159,7 +159,9 @@
 ### Edições especiais
 
 - Arqueologia
+
   - Templos do Egipto - **História**
+
 - Ciência
 
   - Nº2: Atrasar o envelhecimento, o desafio da biomedicina - **Alimentação**; **Neurociência**; **Saúde e bem-estar**; **Medicina e biologia humana**; **Espaço**; **Tecnologia**; **História**; **Arquitectura**
@@ -168,27 +170,30 @@
 
   - O Sol - colosso de fogo - **Espaço**
 
-- Cultura
+* Cultura
   - Guia prático de fotografia, de Joel Sartore - **Fotografia**
   - 2020, um ano inesquecível visto pelos fotógrafos da National Geographic - **Fotografia**
-- Grandes Mulheres
+* Grandes Mulheres
 
   - Agatha Christie, enigmas de uma escritora - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**
   - Cleópatra, a verdadeira história da última rainha do Egipto - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **Mulheres**; **História**
 
-- História
+* História
+
   - As origens da Grécia, a aurora de uma civilização - **Arqueologia**; **História**; **Antropologia**
   - O século das luzes, quando os filósofos mudaram o mundo - **História**
-- Matemática
+  - Edição História, Fevereiro Março 2022 - **Arquitectura**; **Arte**; **Fauna (terra)**; **História**; **Invenções**; **Mulheres**; **Países: Afeganistão, França**
+
+* Matemática
 
   - Uma descoberta sem fim, o infinito matemático - **Matemática**
 
-- Viagens
+* Viagens
 
   - As Melhores Férias - **Países: Estados Unidos da América, Canadá, México, Costa Rica, Irlanda, Croácia, Noruega, Grécia**
   - Caminhos de Santiago - **História**; **Países: Espanha, França, Portugal**; **Religião**
   - Paraísos naturais - **Fauna (água)**; **Países: vários**
   - 50 maravilhas de Portugal - **Países: Portugal**
 
-- Outros
+* Outros
   - Machu Picchu, o relato original da descoberta - **Exploradores/Pioneiros/Pessoas corajosas e interessantes**; **História**
